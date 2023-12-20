@@ -1,0 +1,6 @@
+Hello,
+The Folder Contains Iris Flower Claasification using Decision tree and Neural Network
+
+In this i have used dataset called "Iris Flower"
+
+The dataset is collected from Kaggle ---- https://www.kaggle.com/datasets/arshid/iris-flower-dataset/
