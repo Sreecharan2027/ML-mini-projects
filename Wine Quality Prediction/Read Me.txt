@@ -1,0 +1,6 @@
+Hello,
+The Folder Contains Wine Quality Claasification using linear Regression
+
+In this i have used dataset called "Wine Quality"
+
+The dataset is collected from Kaggle ---- https://www.kaggle.com/datasets/rajyellow46/wine-quality
